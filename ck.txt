@@ -1,2 +1,6 @@
 git is a version control system.
 this is ck's git.
+
+then
+
+ck modify this file.
